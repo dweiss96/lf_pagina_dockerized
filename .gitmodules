@@ -1,0 +1,3 @@
+[submodule "pagina"]
+	path = pagina
+	url = https://github.com/littleforestweb/pagina.git
